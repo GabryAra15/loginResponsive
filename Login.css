@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+.container {
+    background-color: rgb(68, 195, 199);
+}
+.form{
+
+font-family: serif;
+font-size: larger;
+font-weight:bolder;
+
+
+}
+.login{
+    text-align: center;
+    font-size: 250%;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
